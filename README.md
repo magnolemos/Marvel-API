@@ -9,7 +9,7 @@ Clone o projeto;
 Execulte o comando npm i;
 Execulte o comando npm run start.
 
-## Como rodar versão produção
+## Como rodar versão de produção
 
 Clone o projeto;
 Execulte o comando npm i;
