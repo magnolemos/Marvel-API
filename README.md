@@ -1,13 +1,19 @@
 
 ## Sobre o Projeto
 
-Página para encontrar as melhores revistinhas do seu super herói favorito.
+O site consiste em pesquisar o nome do seu herói preferido e ele retorna 15 revistinhas do personagem escolhido. 
+Para testar a performce, utilize a versão de produção, pois nele é mimificado o js e o css.
+
+
+## Pendências
+
+Foi planejado implementar um botão para limpar a pesquisa. Tratar quando não houver revistinha para o personagem pesquisado, animação ao carregar as revistinhas e uma pagina de detalhes. Porém, pelo tempo disponível para fazer,  dentro dos 4 dias propostos, não foi possível implementar. 
 
 ## Como rodar
 
 Clone o projeto;
-Execulte o comando npm i;
-Execulte o comando npm run start.
+Execute o comando npm i;
+Execule o comando npm run start.
 
 ## Como rodar versão de produção
 
