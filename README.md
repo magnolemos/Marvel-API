@@ -2,7 +2,7 @@
 ## Sobre o Projeto
 
 O site consiste em pesquisar o nome do seu herói preferido e ele retorna 15 revistinhas do personagem escolhido. 
-Para testar a performce, utilize a versão de produção, pois nele é minificado o js e o css.
+Para testar a performance, utilize a versão de produção, pois nela é minificado o js e o css.
 
 
 ## Pendências
