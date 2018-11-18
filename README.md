@@ -2,7 +2,7 @@
 ## Sobre o Projeto
 
 O site consiste em pesquisar o nome do seu herói preferido e ele retorna 15 revistinhas do personagem escolhido. 
-Para testar a performce, utilize a versão de produção, pois nele é mimificado o js e o css.
+Para testar a performce, utilize a versão de produção, pois nele é minificado o js e o css.
 
 
 ## Pendências
@@ -13,12 +13,12 @@ Foi planejado implementar um botão para limpar a pesquisa. Tratar quando não h
 
 Clone o projeto;
 Execute o comando npm i;
-Execule o comando npm run start.
+Execute o comando npm run start.
 
 ## Como rodar versão de produção
 
 Clone o projeto;
-Execulte o comando npm i;
-Execulte o comando npm run build;
-Exceulte o comando npm i serve;
-Execulte o comando serve -s build.
+Execute o comando npm i;
+Execute o comando npm run build;
+Execute o comando npm i serve;
+Execute o comando serve -s build.
